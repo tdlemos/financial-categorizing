@@ -1,4 +1,4 @@
-# Welcome to the financial-categorizing wiki!
+# Welcome to the financial-categorizing!
 
 Financial Categorizing is demo application to add ranges and instruments for categorization.
 
