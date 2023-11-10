@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorizingFinancialInstruments", "CategorizingFinancialInstruments\CategorizingFinancialInstruments.csproj", "{9B50D2A0-9802-427E-BB48-0284B83B803C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B50D2A0-9802-427E-BB48-0284B83B803C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B50D2A0-9802-427E-BB48-0284B83B803C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B50D2A0-9802-427E-BB48-0284B83B803C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B50D2A0-9802-427E-BB48-0284B83B803C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69E9F19-6C09-4B97-B7CB-0A36A4B12706}
+	EndGlobalSection
+EndGlobal

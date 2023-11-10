@@ -1,0 +1,1 @@
+[{"StartMarketValue":0,"EndMarketValue":1000000,"Category":"Low Value"},{"StartMarketValue":1000001,"EndMarketValue":5000000,"Category":"Medium Value"},{"StartMarketValue":5000001,"EndMarketValue":9999999,"Category":"High Value"}]

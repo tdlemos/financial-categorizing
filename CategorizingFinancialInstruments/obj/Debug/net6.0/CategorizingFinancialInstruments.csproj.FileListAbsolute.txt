@@ -1,0 +1,15 @@
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\bin\Debug\net6.0\CategorizingFinancialInstruments.exe
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\bin\Debug\net6.0\CategorizingFinancialInstruments.deps.json
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\bin\Debug\net6.0\CategorizingFinancialInstruments.runtimeconfig.json
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\bin\Debug\net6.0\CategorizingFinancialInstruments.dll
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\bin\Debug\net6.0\CategorizingFinancialInstruments.pdb
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.csproj.AssemblyReference.cache
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.AssemblyInfoInputs.cache
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.AssemblyInfo.cs
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.csproj.CoreCompileInputs.cache
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.dll
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\refint\CategorizingFinancialInstruments.dll
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.pdb
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\CategorizingFinancialInstruments.genruntimeconfig.cache
+C:\Users\terci\source\repos\CategorizingFinancialInstruments\CategorizingFinancialInstruments\obj\Debug\net6.0\ref\CategorizingFinancialInstruments.dll

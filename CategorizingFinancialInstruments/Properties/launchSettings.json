@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CategorizingFinancialInstruments": {
+      "commandName": "Project",
+      "commandLineArgs": "rm-i Bond"
+    }
+  }
+}
