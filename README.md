@@ -18,7 +18,7 @@ To add a instrument, type and <enter> on terminal:
 
 To remove a instrument, type and <enter> on terminal:
 
-     CatogoriringFinancialInstruments.exe removeinstrument _<type>
+     CatogoriringFinancialInstruments.exe removeinstrument <type>
 
 to show all categories, type and <enter> on terminal:
 
