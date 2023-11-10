@@ -5,7 +5,7 @@ Financial Categorizing is demo application to add ranges and instruments for cat
 Its a Console application and has some parameters that make it even more interested.
 
 To add/Update a category, type and <enter> on terminal:
-     **CatogoriringFinancialInstruments.exe addrange _<category> <startvalue> <endvalue>_**
+     CatogoriringFinancialInstruments.exe addrange _<category> <startvalue> <endvalue>_
 
 to remove a range, type and <enter> on terminal:
      **CatogoriringFinancialInstruments.exe removerange _<category>_**
